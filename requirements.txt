@@ -3,3 +3,4 @@ matplotlib
 jupyter
 sympy
 opencv-python
+pandas
